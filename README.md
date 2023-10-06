@@ -3,6 +3,6 @@
   <h3> Im Sergey - student from St.Petersburg! </h3>
 </div> 
 Interests: 
-* Language learning
-* Programming
-* Writing stories
+1) Language learning
+2) Programming
+3) Writing stories
