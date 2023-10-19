@@ -7,6 +7,6 @@
 <li>Writing stories 📖</li>
 <li>Strategy BGs 🎲</li>
 </ul>
-Also you can write me, if u want to chat 💬
+Also you can write me, if you need help 💬
 
 Shhh! Dont tell anyone that Im fan of Mafia game! 🤫
