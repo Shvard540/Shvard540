@@ -8,3 +8,5 @@
 <li>Strategy BGs 🎲</li>
 </ul>
 Also you can write me, if u want to chat 💬
+
+Shhh! Dont tell anyone that Im fan of Mafia game! 🤫
