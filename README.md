@@ -5,7 +5,7 @@
 <li>Language learning 📚</li>
 <li>Programming 💻</li>
 <li>Writing stories 📖</li>
-<li>Strategy BGs 🎲</li>
+<li>Strategy games 🎲</li>
 </ul>
 Also you can write me, if you need help 💬
 
