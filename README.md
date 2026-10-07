@@ -4,9 +4,7 @@
 <ul>
 <li>Language learning 📚</li>
 <li>Programming 💻</li>
-<li>Writing stories 📖</li>
+<li>Some art 🎨</li>
 <li>Strategy games 🎲</li>
 </ul>
-Also you can write me, if you need help 💬
-
-Shhh! Dont tell anyone that Im fan of Mafia game! 🤫
+Science researches here too!
